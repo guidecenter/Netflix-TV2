@@ -38,15 +38,19 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 Q: What if my activation code doesn’t work?  
+
 A: Refresh the Netflix app on your TV to get a new code and try again.
 
 Q: Is netflix.com/tv2 a safe site?  
+
 A: Yes, it’s an official Netflix activation URL.
 
 Q: Do I need to do this every time I use Netflix?  
+
 A: No, only once per device unless you log out or reset the TV.
 
 Q: Can I activate Netflix on multiple devices?  
+
 A: Yes, depending on your plan, you can link multiple devices.
 
 Conclusion
